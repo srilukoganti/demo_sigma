@@ -1,2 +1,2 @@
 # demo_sigma
-This is just a practice for Git and Github
+This is just a practice for Git and Github.
